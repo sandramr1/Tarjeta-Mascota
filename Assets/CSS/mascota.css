@@ -59,3 +59,43 @@ body{
     margin: 10px;
 }
 
+#facebook{
+    background-color:blue;
+    color:antiquewhite;
+    margin: 20px;
+    padding: 20px;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+#instagram{
+    background-color:rgba(241, 72, 176, 0.37);
+    color:antiquewhite;
+    margin: 20px;
+    padding: 20px;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+#twitter{
+    background-color:deepskyblue;
+    color:antiquewhite;
+    margin: 20px;
+    padding: 20px;
+    font-size: 20px;
+    border-radius: 10px;
+    border-bottom: 10px solid rgb(12, 12, 12);
+}
+
+.redessociales{
+    text-align: center;
+}
+
+.final{
+    text-align:center;
+    font-size: 30px;
+    margin: 10px;
+    border: 5px;
+
+
+}
