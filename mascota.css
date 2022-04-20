@@ -46,3 +46,16 @@ body{
     border-top: solid #cccccc ;
     border-left: solid #cccccc;
 }
+
+#imagenhachi{
+    width: 200px;
+    display: inline-block;
+    border-radius:10px;
+}
+
+#texto1{
+    width:200px;
+    display:inline-flex;
+    margin: 10px;
+}
+
