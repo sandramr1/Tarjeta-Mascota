@@ -1,0 +1,40 @@
+
+
+
+
+.titulo{
+    padding:30px;
+    text-align: center;
+    color:cornflowerblue;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.hachi{
+    margin: 50px;
+    
+    padding:20px;
+    background-color: white;
+    border-radius: 5px;
+    text-align: center;
+}
+
+#perrito{
+    height: 400px;
+    text-align: center;
+    border-radius: 10px;
+    border-style: dotted;
+    border-color: #ca9d08;
+    border-radius:  5px;
+}
+
+.texto{
+    font-size: 25px;
+    text-align: center;
+    margin: 40px;
+    background-color: white;
+    border-style: ridge;
+    border-color: #cccccc;
+    border-radius: 5px;
+    border-top: solid #cccccc ;
+    border-left: solid #cccccc;
+}
